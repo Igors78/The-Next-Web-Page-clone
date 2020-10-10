@@ -23,7 +23,7 @@ See the source page below:
 
 ## Live Demo
 
-[Live Demo Link](https://kinezaenaelle.github.io/TNW/)
+[Live Demo Link](https://igors78.github.io/The-Next-Web-Page-clone/)
 
 ## Getting Started
 
@@ -40,7 +40,7 @@ To get a local copy up and running follow these simple example steps.
 ### Install
 
 - Go to your preferred directory
-- Run [ git clone https://github.com/KinezaEnaelle/TNW.git ] command
+- Run [ git clone https://github.com/Igors78/The-Next-Web-Page-clone.git ] command
 
 ### Usage
 
@@ -65,7 +65,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/KinezaEnaelle/TNW/issues).
+Feel free to check the [issues page](https://github.com/Igors78/The-Next-Web-Page-clone/issues).
 
 ## Show your support
 
